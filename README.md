@@ -1,5 +1,7 @@
 # Xylophone 🎹
 
+![Screenshot_20230319_170203](https://user-images.githubusercontent.com/128228440/227208099-6a48c87a-fc5c-4ee5-9777-89b006c966b5.jpg)
+
 ## Goal
 
 This tutorial will dive into more Dart programming concepts and guide how to use open source Flutter packages. By the end of this module, using Flutter packages and building repeated widgets would get easier.
